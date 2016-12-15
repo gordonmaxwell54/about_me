@@ -1,0 +1,22 @@
+h1{color: red;
+font-size: 45px
+font-family: 'Oswald', sans-serif;
+}
+h2{color: blue;
+font-size: 30px
+}
+.one{
+	width: 40%;
+	height: 40px;
+	font-size: 30px;
+}
+.two{
+	width: 40%;
+	height: 40px;
+	font-size: 30px;
+}
+.three{
+	width: 40%;
+	height: 40px;
+	font-size: 30px;
+}
